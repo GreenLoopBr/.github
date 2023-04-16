@@ -6,6 +6,6 @@ Com o passar do tempo, a sociedade passou a ser cada vez mais complexa e a natur
 
 Tal fato, teve consequências a longo prazo, criou um problema gigante que seria o problema do lixo. Para onde vai os restos de cada coisa após ser consumida? Plástico, papel, vidro, metal, madeira, etc. Como lidar com isso? Como reciclar? Como reutilizar? Como reverter o processo de degradação da natureza? Como voltar a ter uma relação saudável com a natureza?
 
-Foi pensando nesse problema de consumo sustentável que surgiu a Green Loop. A Green Loop é uma empresa que tem como objetivo principal, criar uma solução para o problema do lixo (principalmente recicláveis ou eletrônico).
+Foi pensando nesse problema de consumo sustentável que surgiu a Green Loop. A Green Loop é uma organização que tem como objetivo principal, criar uma solução para o problema do lixo (principalmente recicláveis ou eletrônico).
 
 Através de uma plataforma digital, a Green Loop conecta pessoas que querem doar itens resultantes do consumo de insumos, com pessoas/empresas que querem receber esses itens para reutilizá-los. Através dessa conexão, a Green Loop busca criar uma relação de troca entre as pessoas, onde o consumidor passa a ter uma relação mais saudável com a natureza, e a empresa possa compensar seu impacto ambiental reutilizando os materiais para criar novos produtos. Diminuindo a demanda por insumos gerados pela exploração da natureza, e consequentemente, diminuindo o impacto ambiental causado pela sociedade.
