@@ -1,6 +1,6 @@
 # GreenLoopBr
 
-**O mundo nasceu pronto, mas o ser humano não estava pronto para o mundo.** Com seu anseio de moldá-lo às suas necessidades, o ser humano evoluiu e adaptou sua forma de viver criando comunidades (cada vez mais complexas); e junto disso sua relação com a natureza como meio de vida, seja moradia ou alimento também mudou.
+**O mundo nasceu pronto, mas o ser humano não estava pronto para o mundo.** Com seu anseio de moldá-lo às suas necessidades, o ser humano evoluiu e adaptou sua forma de viver criando comunidades (cada vez mais complexas); e junto disso sua relação com a natureza como meio de vida, seja moradia ou alimento, também mudou.
 
 Com o passar do tempo, a sociedade passou a ser cada vez mais complexa e a natureza passou a ser cada vez mais explorada e degradada. Antes o a matéria prima que era para sustentar e manter apenas sua família, passou sustentar e manter a sociedade como um todo. Com isso, o ser humano passou a ter uma relação de dependência com a natureza, e consequentemente, a natureza passou a ser vista como um meio de vida e não mais como um fim em si mesmo.
 
